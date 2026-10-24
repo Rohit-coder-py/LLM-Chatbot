@@ -10,7 +10,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-4F46E5?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-Groq-4F46E5?style=flat-square)
 
-### 🔗 [Live App](#) &nbsp;·&nbsp; *add your deployed link here*
+### 🔗 [Live App](#) &nbsp;·&nbsp; http://llm-chatbot-genai.streamlit.app/
 
 </div>
 
